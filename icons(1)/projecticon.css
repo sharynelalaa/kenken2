@@ -1,0 +1,46 @@
+h3.name{
+    margin-left: -550px;
+    margin-top: 10px;
+   
+ }
+ .name {
+     color:rgb(3, 3, 3);
+     margin-left: 0px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px; 
+     
+ }
+ 
+ .nav-item{
+     margin-right: 45px;
+ }
+ 
+ .fblogo{
+     margin-right: top;
+     background-color: rgba(255, 228, 196, 0);
+ }
+ 
+ body{
+    background-image: url(IMAGES/BACKGROUND.jpg);
+    object-fit: cover;
+    
+ }
+ 
+ /* video{
+     background-color:cadetblue ;
+     width: 1545px; height: 1000px;
+ } */
+
+ .profile1{
+    position: absolute;
+    width: 100px; height: 100px;
+    
+    
+ }
+
+ .profile2{
+    position: absolute;
+    width: 100px; height: 100px;
+    
+    
+ }
